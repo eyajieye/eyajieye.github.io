@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eyajieye.github.io/QDq/sitemap_index.txt
+Sitemap: https://eyajieye.github.io/qfA/sitemap_index.txt
+Sitemap: https://eyajieye.github.io/uYd/sitemap_index.txt
+Sitemap: https://eyajieye.github.io/vbw/sitemap_index.txt
